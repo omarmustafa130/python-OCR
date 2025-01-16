@@ -1,2 +1,2 @@
 # python-OCR
-Optical Character Recognition with python
+Optical Character Recognition application with python
